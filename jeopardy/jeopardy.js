@@ -17,7 +17,7 @@
 //    },
 //    ...
 //  ]
-const baseURL = 'http://jservice.io/api/';
+const baseURL = 'https://jservice.io/api/';
 let categories = [];
 
 /** Get NUM_CATEGORIES random category from API.
